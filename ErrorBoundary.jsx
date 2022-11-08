@@ -30,7 +30,7 @@ const ChildComponent = () => {
 const App = () => {
     return (
         <ErrorBoundary>
-            <ChildComponent/>
+            <ChildComponent />
         </ErrorBoundary>
     )
 }
